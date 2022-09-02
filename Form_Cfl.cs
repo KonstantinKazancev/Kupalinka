@@ -9,6 +9,9 @@ using System.Windows.Forms;
 
 namespace Kupalinka
 {
+    /// <summary>
+    /// 1123
+    /// </summary>
     public partial class Form_Cfl : Form
     {
         public Form_Cfl()
